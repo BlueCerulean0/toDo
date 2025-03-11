@@ -1,0 +1,54 @@
+/*.addTodo form :last-child {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: right;*/
+/*    align-items: center;*/
+
+/*}*/
+
+
+/*.addTodo input,*/
+/*.addTodo textarea,*/
+/*.addTodo select,*/
+/*.addTodo button {*/
+/*    width: 100%;*/
+/*    padding: 10px;*/
+/*    border: none;*/
+/*    outline: none;*/
+/*    border-radius: 6px;*/
+/*    font-size: 16px;*/
+/*}*/
+
+/*.addTodo form .form-actions button {*/
+/*    background-color: #196fbf;*/
+/*    color: white;*/
+/*    cursor: pointer;*/
+/*    font-weight: bold;*/
+/*    font-size: 14px;*/
+/*    width: 20%;*/
+/*    height: 100%;*/
+
+/*}*/
+
+/*.addTodo form .form-fields {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.priority-container,*/
+/*.due-date-container {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: space-between;*/
+/*    align-items: center;*/
+
+/*}*/
+
+/*.addTodo form input[type="date"],*/
+/*.addTodo form select {*/
+/*    width: 80%;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    height: auto;*/
+/*}*/
